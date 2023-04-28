@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 36e6d272e46c239488c8c3b4d4d5a36e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SPH: {fileID: 4374368967096835233, guid: 04059252bd7faae43b5b568c258a57e8, type: 3}
+  - rend: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
